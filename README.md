@@ -1,16 +1,41 @@
-# quiz_project
+# 🧠 QuizApp - Flutter Math Quiz
 
-A new Flutter project.
+A lightweight Flutter app that challenges users with simple math problems under a time limit. Ideal for sharpening basic arithmetic skills in a fun and engaging way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧭 App Screen Flow
 
-A few resources to get you started if this is your first Flutter project:
+![App Flow](assets/screen_flow.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📽️ App Demo Video
+
+[▶ Watch Demo Video](assets/app_demo.mp4)
+
+---
+
+## 🎯 Features
+
+- 🧮 **Math Questions** – Addition, subtraction, multiplication, and more
+- ⏳ **Timed Questions** – Each problem must be solved within a countdown
+- ✅ **Score Tracking** – Instant feedback on answers and score updates
+- 🔁 **Replay Option** – Try again with a new set of randomized problems
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+
+- Flutter SDK (3.x)
+- Android Studio / VS Code
+
+### 🔧 Installation
+
+```bash
+git clone https://github.com/Lekhika-Regmi/QuizApp_flutter.git
+cd QuizApp_flutter
+flutter pub get
+flutter run
